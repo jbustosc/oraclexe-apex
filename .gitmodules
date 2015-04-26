@@ -1,0 +1,3 @@
+[submodule "extras/rmate"]
+	path = extras/rmate
+	url = https://github.com/aurora/rmate
